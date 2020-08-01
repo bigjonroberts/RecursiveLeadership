@@ -9,7 +9,11 @@ description: "An introduction to the creative mind's assistants: FOCUS, MOTIVE,
 
 Like most people I have a long list of projects, ideas, and big plans that I would "like to do." I've always had a long list, and most of these projects have never been done. Most of them were barely even started. Honestly, most of them deserved to be deferred, cancelled or abandoned.  They were ideas that were fun to entertain, but difficult, if not impossible, to implement. Some creatives will develop systems to record and catalog their dreams and fantasies.  They then peruse them periodically, modify and enhance them, then file them away again.  A few dreams do get polished to finished products and released to the world. This very blog you're reading is one of my dreams turned finished product. I'm embarking on a journey to discover more of my dreams and fantasies that have potential. After I've identified them, I want to make them into realities.  
 
-I recently decided to categorize and map the current projects floating around in my head.  I was shocked to discover the breadth and variety of these projects. Here's a picture of that map.  There are 21 different projects on this page.  This only lists projects outside of my day job and home responsibilities. There's absolutely no way that I can attack these all at the same time.
+I recently decided to categorize and map the current projects floating around in my head.  I was shocked to discover the breadth and variety of these projects. Here's a picture of that map.  
+
+![Map of Jon's Projects](/img/projects-map.jpeg)
+
+There are 21 different projects on this page.  This only lists projects outside of my day job and home responsibilities. There's absolutely no way that I can attack these all at the same time.
 
 Everyone needs at least one passion project, something that they create just because they want to learn and grow and create something they love. But I'll say it again: most of our ideas deserve to be discarded, filed away and forgotten. If only it were not so. damn. difficult.
 

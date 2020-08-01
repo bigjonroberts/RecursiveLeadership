@@ -2,6 +2,7 @@
 title: Welcome to the Recursive Leadership Blog
 date: 2020-07-31T15:01:30.269Z
 description: A place to explore the nuances of leadership and growth
+slug: welcome
 ---
 I'm a big fan of the [Unfolding Leadership Blog](http://www.unfoldingleadership.com/blog/) by Dan Oestreich.  His insightful posts have been pivotal in my personal journey toward more empathy and more understanding of how "we" can get twisted up in problems and how to "untwist" when that happens. If you haven't read his blog, you should check it out and subscribe (and subscribe to mine while you are at it).
 

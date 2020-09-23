@@ -21,9 +21,11 @@ But why is it so difficult? It's difficult in different ways for different peopl
 
 Here's what I've learned about seeing ideas through to completion:
 
-    FOCUS: Come up with a system that helps you prioritize what is both important and urgent so you can FOCUS on the right things. For example: today I write my blog, tomorrow I do my laundry.
-    MOTIVE: Take a hard look at WHY you are doing some of the things that you are doing and be brutally honest with yourself. Unhealthy motives can capsize any project.
-    SACRIFICE: You'll need to give up on some of your ideas, at least temporarily. This is the twin sister of FOCUS, and she's not the bitch you heard that she was.
+* FOCUS: Come up with a system that helps you prioritize what is both important and urgent so you can FOCUS on the right things. For example: today I write my blog, tomorrow I do my laundry.
+* MOTIVE: Take a hard look at WHY you are doing some of the things that you are doing and be brutally honest with yourself. Unhealthy motives can capsize any project.
+* SACRIFICE: You'll need to give up on some of your ideas, at least temporarily. This is the twin sister of FOCUS, and she's not the bitch you heard that she was.
+
+
 
 Focus, motive, and sacrifice are tools to decide WHAT to do and review what we HAVE DONE at the strategic level.  In a second series of posts, I'll follow up to discuss HOW to get things done at a tactical level. I look forward to discussing these with you in the coming weeks.
 
